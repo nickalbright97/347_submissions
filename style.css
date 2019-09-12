@@ -1,0 +1,7 @@
+h3 {
+    color: red;
+    page-break-before: always;
+}
+body {
+    background-color: green
+}
